@@ -1,4 +1,5 @@
-#About this Project
+#About this Project#
+
 in this project we analyzed restaurant data (file zomato.csv) in India, that contains information about restaurants, mainly their locations, menus, guests, cost of a meal for two, and rating.
 our business question was pricing  - we classified restaurant variables in order to predict the cost of a dinner date.  This prediction should be helpful to identify restaurants that are over or under priced for restaurant owners and customers.
 
